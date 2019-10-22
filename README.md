@@ -3,3 +3,5 @@ Prototype for my Bachelor's degree work (thesis). App was developed as part of t
 Platform: Xamarin (Xamarin.Anroid).
 
 Database: SQLite.
+
+2017.
